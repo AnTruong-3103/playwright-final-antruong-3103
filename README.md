@@ -1,1 +1,3 @@
-# playwright-final-antruong-3103
+# Playwright Final Exercise
+# Author: An Truong
+# KMS ID: 3103
